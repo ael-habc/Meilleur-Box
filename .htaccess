@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteBase /
+RewriteRule ^pages/internet\.html$ /internet [R=301,L]
